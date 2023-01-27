@@ -1,1 +1,1 @@
-![Winnie as a Pup](/r-lode.github.io/docs/assets/Eowyn.jpg)
+![Winnie as a Pup](/docs/assets/Eowyn.jpg)
