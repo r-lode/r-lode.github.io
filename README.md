@@ -1,3 +1,1 @@
-# r-lode.github.io
-
-# Ryan Lode
+![Winnie as a Pup](/r-lode.github.io/docs/assets/Eowyn.jpg)
