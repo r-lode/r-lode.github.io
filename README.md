@@ -4,7 +4,7 @@
 
 <li>Expected Graduation: May 2023</li>
 
-<li>Specialization: Numerical Analysis</li>
+<li>Specialization: Numerical Analysis</li>S
 
 <li><b>Skills: </b> Python, R, Machine Learning</li>
 
