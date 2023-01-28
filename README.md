@@ -5,7 +5,7 @@
 
 <img align="left" width="100" height="100" src= "/docs/assets/Eowyn.jpg">
 
-   * Bullet 3
-   * Bullet 4
+- Bullet 3
+- Bullet 4
     
     
