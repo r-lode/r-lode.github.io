@@ -1,10 +1,6 @@
-![Winnie as a Pup](/docs/assets/Eowyn.jpg)
+<img align="left" width="200" height="400" src= "/docs/assets/Eowyn.jpg">
 
-* Bullet 1
-* Bullet 2
-
-<img align="left" width="100" height="100" src= "/docs/assets/Eowyn.jpg">
-<div style="text-align: right"> - Bullet 3 </div>
-
+* Bullet 3
+* Bullet 4
     
     
