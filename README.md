@@ -6,8 +6,6 @@
 
 <li>Specialization: Numerical Analysis</li>
 
-<li>Seeking role in data science or data analytics setting</li>
-
 <li><b>Skills: </b> Python, R, Machine Learning</li>
 
 </ul>    
