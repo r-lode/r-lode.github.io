@@ -49,3 +49,16 @@
 
 </ul>
 
+&nbsp;
+
+<h1 style="text-align: center;">Academic Projects</h1>
+
+<ul>
+
+<li> Course: Concepts and Applications of Machine Learning</li>
+
+<li> Spam Classification</li>
+
+<li> Project: Classified spam emails using a cross validated KNN model as measured in prediction misclassification rate. Model performance tested against logistic regression, LDA, QDA, and Naïve Bayes </li>
+
+</ul>
