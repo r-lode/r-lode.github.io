@@ -27,6 +27,8 @@
 &nbsp;
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
 
 <h1 style="text-align: center;">Academic Projects</h1>
 
