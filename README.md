@@ -12,7 +12,7 @@
 
 
 <h1 style="text-align: right;">Work Experience</h1>
-<ul style = "text-align: auto">
+<ul style = "text-align: right">
 
 <li>> Colsa Corporation, Hunstville Alabama</li>
 
