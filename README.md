@@ -39,13 +39,13 @@
 
 <h1 style="text-align: center;">Academic Projects</h1>
 
-<ul style = "text-align: Center;">
+<ul>
 
-<li>> Course: Introduction to High Performance Computing</li>
+<li> Course: Introduction to High Performance Computing</li>
 
-<li>> Discrete Fourier Transform Parallelization via OpenMP</li>
+<li> Discrete Fourier Transform Parallelization via OpenMP</li>
 
-<li>> Project: Parallelized brute-force algorithm over randomly generated signal data points to improve runtime to one-fifth of the original computation time. </li>
+<li> Project: Parallelized brute-force algorithm over randomly generated signal data points to improve runtime to one-fifth of the original computation time. </li>
 
 </ul>
 
