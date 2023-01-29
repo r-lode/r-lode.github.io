@@ -1,4 +1,4 @@
-<img align="left" width="323" height="370" src= "/assets/img/Eowyn.jpg">
+<img align="left" width="350" height="400" src= "/assets/img/Eowyn.jpg">
 <h1 style="text-align: right;">Highlights</h1>
 <ul style = "text-align: right;">
 
@@ -19,7 +19,7 @@
 <li>> Data Science Intern: Summer 2022</li>
 <li>> Focus Areas:</li>
 
-<li>> 
+<li> 
     <ol>
     <li>Python</li>
     <li>Graph Machine Learning</li>
