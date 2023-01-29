@@ -1,7 +1,7 @@
 
 ![Winnie as a Pup](/assets/img/Eowyn.jpg)
-<h1 style="text-align: centert;">Highlights</h1>
-<ul style = "text-align: right;">
+<h1 style="text-align: center;">Highlights</h1>
+<ul>
 
 <li> Expected Graduation: May 2023</li>
 
@@ -12,8 +12,8 @@
 </ul>    
 
 
-<h1 style="text-align: right;">Work Experience</h1>
-<ul style = "text-align: right">
+<h1 style="text-align: center;">Work Experience</h1>
+<ul>
 
 <li> Colsa Corporation, Hunstville Alabama</li>
 
