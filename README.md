@@ -18,24 +18,9 @@
 <li> Colsa Corporation, Hunstville Alabama</li>
 
 <li> Data Science Intern: Summer 2022</li>
-<li> Focus Areas:</li>
-
-<li> 
-    <ol>
-    <li>Python</li>
-    <li>Graph Machine Learning</li>
-    <li>Web Scraping</li>
-    </ol>
-</li>
+<li> Focus Areas: Python, Graph Machine Learning, Web Scraping</li>
 
 </ul>
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 
 
 <h1 style="text-align: center;">Academic Projects</h1>
@@ -50,7 +35,7 @@
 
 </ul>
 
-&nbsp;
+
 
 <h1 style="text-align: center;">Academic Projects</h1>
 
