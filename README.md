@@ -14,7 +14,7 @@
 <h1 style="text-align: right;">Work Experience</h1>
 <ul style = "text-align: right;">
 
-<li>> Colsa</li>
+<li>> Colsa Corporation, Hunstville Alabama</li>
 
 <li>> Data Science Intern: Summer 2022</li>
 
