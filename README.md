@@ -2,11 +2,11 @@
 <h1 style="text-align: right;">Highlights</h1>
 <ul style = "text-align: right;">
 
-<li>Expected Graduation: May 2023</li>
+<li>> Expected Graduation: May 2023</li>
 
-<li>Specialization: Numerical Analysis</li>
+<li>> Specialization: Numerical Analysis</li>
 
-<li><b>Skills: </b> Python, R, Machine Learning</li>
+<li>> Skills: Python, R, Machine Learning</li>
 
 </ul>    
 
