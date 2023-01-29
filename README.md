@@ -11,4 +11,4 @@
 </ul>    
 
 
-<h1 style="text-align: right;">Professional Experience</h1>
+<h1 style="text-align: right;">Work Experience</h1>
