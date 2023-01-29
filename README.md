@@ -1,4 +1,4 @@
-<img align="left" width="350" height="400" src= "/assets/img/Eowyn.jpg">
+<img align="left" width="325" height="375" src= "/assets/img/Eowyn.jpg">
 <h1 style="text-align: right;">Highlights</h1>
 <ul style = "text-align: right;">
 
@@ -28,10 +28,7 @@
 &nbsp;
 &nbsp;
 &nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+
 
 <h1 style="text-align: center;">Academic Projects</h1>
 
